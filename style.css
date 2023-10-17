@@ -3,11 +3,11 @@ nav {
 }
 
 header > h1 {
-  color: white;
+  color: rgb(0,0,0);
 }
 
 .jumbotron > h1 {
-  color: white;
+  color: rgb(0,0,0);
 }
 
 .jumbotron {
@@ -19,8 +19,7 @@ header > h1 {
 }
 
 body {
-  /* background-color: #e9ecef; */
-  background-color: rgb(176, 196, 222);
+  background-color: rgb(105,105,105);
 
 }
 
