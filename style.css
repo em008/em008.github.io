@@ -1,29 +1,29 @@
 nav {
-  background-color: rgb(169,169,169);
+  background-color: rgb(105,105,105);
 }
 
 header > h1 {
-  color: rgb(0,0,0);
+  color: rgb(105,105,105);
 }
 
-.jumbotron > h1 {
+/* .jumbotron > h1 {
   color: rgb(0,0,0);
-}
+} */
 
-.jumbotron {
+/* .jumbotron {
   background-color: rgb(176, 196, 222);
 } */
 
 /* .jumbotron > div {
   background-color: rgb(70,130,180);
-}
+} */
 
-body {
+/* body {
   background-color: rgb(105,105,105);
 
-}
+} */
 
-.container {
+/* .container {
   background-color: rgb(105,105,105);
-}
+} */
 
