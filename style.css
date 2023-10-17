@@ -2,9 +2,9 @@ nav {
   background-color: rgb(105,105,105);
 }
 
-header > h1 {
+/* header > h1 {
   color: rgb(105,105,105);
-}
+} */
 
 /* .jumbotron > h1 {
   color: rgb(0,0,0);
@@ -27,3 +27,15 @@ header > h1 {
   background-color: rgb(105,105,105);
 } */
 
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+img {
+  width: 100px; /* Adjust the width to your preference */
+  height: 100px; /* Adjust the height to your preference */
+}
