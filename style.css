@@ -14,9 +14,9 @@ header > h1 {
   background-color: rgb(176, 196, 222);
 }
 
-.jumbotron > div {
+/* .jumbotron > div {
   background-color: rgb(70,130,180);
-}
+} */
 
 body {
   background-color: rgb(105,105,105);
@@ -24,6 +24,6 @@ body {
 }
 
 .container {
-  background-color: rgb(176, 196, 222);
+  background-color: rgb(105,105,105);
 }
 
